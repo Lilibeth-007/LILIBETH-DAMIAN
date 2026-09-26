@@ -1,7 +1,7 @@
-# LILIBETH DAMIAN
+#                                       `LILIBETH DAMIAN´
            📚Estudiante de Ing. en Sistemas. Explorando desarrollo web y creando proyectos🫧
 <div align="center">
-  <h1>¡Hola, soy Aymar Lilibeth! 👋</h1>
+  <h1>¡Hello i am Lilibeth! 👋</h1>
   <p><em>Software Engineering Student & Aspiring Developer</em></p>
   
   <p>
