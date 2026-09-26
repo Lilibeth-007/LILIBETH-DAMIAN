@@ -1,5 +1,5 @@
 # LILIBETH-DAMIAN
-            📚Estudiante de Ing. en Sistemas. Explorando desarrollo web (HTML, CSS, JS, Python, SQL) y creando proyectos🫧
+    📚Estudiante de Ing. en Sistemas. Explorando desarrollo web (HTML, CSS, JS, Python, SQL) y creando proyectos🫧
 <div align="center">
   <h1>¡Hola, soy Aymar Lilibeth! 👋</h1>
   <p><em>Software Engineering Student & Aspiring Developer</em></p>
@@ -49,5 +49,5 @@ I am an engineering student passionate about software development, system logic,
 
 ---
 <div align="center">
-  <small>✨ <em>"Turning ccomplex logic into clean, efficient, and scalable softawe solutions."</em> ✨</small>
+  <small>✨ <em>"Turning complex logic into clean, efficient, and scalable softawe solutions."</em> ✨</small>
 </div>
