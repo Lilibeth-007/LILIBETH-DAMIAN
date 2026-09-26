@@ -1,5 +1,5 @@
 # LILIBETH DAMIAN
-      📚Estudiante de Ing. en Sistemas. Explorando desarrollo web y creando proyectos🫧
+         📚Estudiante de Ing. en Sistemas. Explorando desarrollo web y creando proyectos🫧
 <div align="center">
   <h1>¡Hola, soy Aymar Lilibeth! 👋</h1>
   <p><em>Software Engineering Student & Aspiring Developer</em></p>
