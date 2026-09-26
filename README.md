@@ -49,5 +49,5 @@ I am an engineering student passionate about software development, system logic,
 
 ---
 <div align="center">
-  <small>✨ <em>"Code is like humor. When you have to explain it, it’s bad."</em> ✨</small>
+  <small>✨ <em>"Turning ccomplex logic into clean, efficient, and scalable softawe solutions."</em> ✨</small>
 </div>
