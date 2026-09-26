@@ -45,7 +45,7 @@ I am an engineering student passionate about software development, system logic,
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LILIBETH-DAMIAN&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats">
-</div>
+</div> 
 
 ---
 <div align="center">
